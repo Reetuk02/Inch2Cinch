@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="src/StockService/StockService.csproj" Id="90bb31e4-7dc6-4d2f-8d03-ade3667b4e18" />
+  <Project Path="src/OrderService/OrderService.csproj" Id="14b7ffc7-2e41-4f9a-9662-0fa36ba5e8af" />
+  <Project Path="src/KafkaLagMonitor/KafkaLagMonitor.csproj" Id="85cf3b1e-a432-42a8-87cc-fd9d6cb5132e" />
+  <Project Path="src/OutboxPublisher/OutboxPublisher.csproj" Id="1c8b91fb-4318-4b8d-814d-870a51805c40" />
+  <Project Path="src/ProductService/ProductService.csproj" Id="22d7daad-5251-479b-a269-0b1d9f80826c" />
+  <Project Path="src/Shared.Contracts/Shared.Contracts.csproj" Id="acc39fd8-41f7-48b0-89ea-1678cf61d4d2" />
+</Solution>
